@@ -1,0 +1,67 @@
+h1{
+ color: white;
+ outline-color:#91ABAB; 
+ text-shadow: 1.5px 1.5px #91ABAB;
+ text-align: center;
+ letter-spacing: 1.5px;
+ 
+
+}
+
+h3{
+ color: white; 
+ text-shadow: 1px 1px #91ABAB;
+ text-align: left;
+ letter-spacing: 1.5px;
+ font-family: 'Cabin', sans-serif;
+}
+
+p{
+ 
+ text-align: center;
+ text-decoration: underline;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+
+th{
+	text-decoration: underline;
+}
+/* Red border */
+.border {
+  border-top: 1px solid red;
+  background-color: #284D4D;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: auto;
+    height: 21px;
+}
+
+.pic{
+  width: auto;
+    height: 60px;
+    border-radius: 60px;
+
+}
+.col{
+  
+  
+  
+  border: 0.5px solid black;
+}
+
+.row{
+
+  border: 0.5px solid black;
+  
+
+}
+
+
+	
